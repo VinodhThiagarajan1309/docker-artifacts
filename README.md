@@ -1,3 +1,6 @@
+
+# This Repo holds files that makes the Docker Image creation of a Java Maven Project simple
+
 ### Follow these steps to create your Docker Image for your Java Maven Project
 
 1. First create a folder named **docker** in your **src/main** directory
