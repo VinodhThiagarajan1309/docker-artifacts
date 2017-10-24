@@ -1,4 +1,4 @@
-### Follow these steps to create your Docker Image for your Java Project
+### Follow these steps to create your Docker Image for your Java Maven Project
 
 1. First create a folder named **docker** in your src/main directory
 2. Place the **Dockerfile** in the directory. The file name is case sensitve
