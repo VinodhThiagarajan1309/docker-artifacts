@@ -1,2 +1,2 @@
 # docker-artifacts
-Holds files that makes Docker Deployment easy
+Holds files that makes Docker Image creation easy
